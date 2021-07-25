@@ -1,0 +1,94 @@
+<html>
+    <head>
+        <title>my js test</title>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="js/load.js"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+      </head>
+    <body>
+      
+
+      
+      <nav class="navbar navbar-light bg-light">
+        <img src="img/wassL.png" alt="" style="height: 60px;  left: 0px;">
+        <!-- <span style="font-family:Times New Roman, Times, serif; font-size: x-large;">
+          <p>Western Australian International School System</p>
+          </span> -->
+        <div>
+       <h4 id="theYear" style="text-align: center;font-family:Times New Roman, Times, serif; font-size: x-large;"></h4>
+     </div>
+        <a href="Index.html">
+          <img src="img/home.gif" alt="" style="height: 40px; position: absolute; right: 0px; top: 0%;">
+        </a>
+        
+      
+      </nav>
+      <br>
+     
+     
+        <div class="container">
+          
+          
+
+          <div class="row" id="divn"> </div>
+          
+           <div class="card">
+              <div class="card-body">
+                
+                    <p id="gender"></p>
+                    <div class="" role="alert" id="alert"></div>
+                    <span><p class="lead" id="p1"> </p></span>
+            
+                </div>
+            </div>
+        
+            <p class="lead"></p>
+              <a id="btn" class="btn btn-outline-primary btn-lg btn-block " role="button">Copy</a>
+            </p>
+
+            <p class="lead"></p>
+              <a class="btn btn-outline-danger btn-lg btn-block "  onclick="location.reload()" role="button">new student</a>
+            </p>
+    
+            
+           
+            
+            
+            
+            
+          </div>
+<script>
+  function copyText(htmlElement) {
+    if (!htmlElement) {
+      return;
+    }
+    let elementText = htmlElement.innerText;
+    let inputElement = document.createElement('input');
+    inputElement.setAttribute('value', elementText);
+    document.body.appendChild(inputElement);
+    inputElement.select();
+    document.execCommand('copy');
+    inputElement.parentNode.removeChild(inputElement);
+   } 
+    document.querySelector('#btn').onclick = 
+
+    function () {
+      copyText(document.querySelector('#p1'));
+      
+      
+    }
+
+    
+  
+  
+  
+</script>
+        
+        
+        
+         </body>
+     
+</html>
