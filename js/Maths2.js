@@ -1,7 +1,7 @@
 
 // always copy this
 
-var A, B, C,a, b, c,sNam ;     
+var A, B, C,a, b, c,sNam;     
 while (!sNam) {
   sNam = prompt("please provide student name");  
 }
