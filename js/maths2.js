@@ -80,7 +80,7 @@ let one = [     {grade:"no select", comment:""},
 {grade:"D", comment: sName +" demonstrates limited achievement of what is expected for this year level."},
 {grade:"E", comment: sName +" demonstrates low achievement of what is expected for this year level."}
 ];
-one.name="first born childaozdh";
+one.name="opening";
 
 let two = [    {grade:"no select", comment:""},
 {grade:"A", comment: A +" fluently counts and orders numbers to and from 1000 and beyond from any starting point."},
