@@ -73,79 +73,79 @@
 // console.log(A,B,C,a,b,c);
 
        
-      let first = [     {grade:"no select", comment:""},
+      let one = [     {grade:"no select", comment:""},
                         {grade:"A", comment: sName +" demonstrates excellent achievement of what is expected for this year level."},
                         {grade:"B", comment: sName +" demonstrates high achievement of what is expected for this year level."},
                         {grade:"C", comment: sName +" demonstrates satisfactory achievement of what is expected for this year level."},
                         {grade:"D", comment: sName +" demonstrates limited achievement of what is expected for this year level."},
                         {grade:"E", comment: sName +" demonstrates low achievement of what is expected for this year level."}
                 ];
-      first.name="opening";
+      one.name="opening";
 
   
 
-      let second = [    {grade:"no select", comment:""},
+      let two = [    {grade:"no select", comment:""},
                         {grade:"A", comment: A +" describes and compares the growth and change of a number of living things through stages of their life, identifying similarities and differences between parent and offspring and recognising common elements within life cycles."},
                         {grade:"B", comment: A +" describes how living things grow and change through different stages of their life, identifying some similarities between parent and offspring."},
                         {grade:"C", comment: A +" describes how living things grow and change through different stages of their life."},
                         {grade:"D", comment: A +" describes with limited understanding how living things grow and change through different stages of their life."},
                         {grade:"E", comment: A +" does not meet the expected standard."}
                 ];
-      second.name="Biological sciences";
+      two.name="Biological sciences";
 
-        let third = [    {grade:"no select", comment:""},
+        let three = [    {grade:"no select", comment:""},
                         {grade:"A", comment: A +" identifies that different materials have different uses, describes their properties and explains how the purpose of materials can change when they are combined."},
                         {grade:"B", comment: A +" identifies that different materials have different uses and explains how the purpose of materials can change when they are combined."},
                         {grade:"C", comment: A +" identifies that different materials have different uses and describes how the purpose of materials can change when they are combined."},
                         {grade:"D", comment: A +" identifies different materials and some of their uses."},
                         {grade:"E", comment: A +" does not meet the expected standard."}
                 ];
-      third.name="Chemical sciences";
+      three.name="Chemical sciences";
 
-        let forth = [    {grade:"no select", comment:""},
+        let four = [    {grade:"no select", comment:""},
                         {grade:"A", comment: A +" identifies a range of resources, describes a variety of ways they can be used and reused, and how this affects other living things."},
                         {grade:"B", comment: A +" identifies a resource and ways in which it can be used, and how the use may affect their daily life."},
                         {grade:"C", comment: A +" identifies a resource, and ways in which it can be used."},
                         {grade:"D", comment: A +" identifies a resource and lists some simple ways it can be used."},
                         {grade:"E", comment: A +" does not meet the expected standard."}
                 ];
-      forth.name="Earth, space sciences";
+      four.name="Earth, space sciences";
 
-        let fifth = [    {grade:"no select", comment:""},
+        let five = [    {grade:"no select", comment:""},
                         {grade:"A", comment: A +" explains the effect of combined forces on an object’s behaviour or shape."},
                         {grade:"B", comment: A +" explains that different forces affect an object’s behaviour or shape in different ways."},
                         {grade:"C", comment: A +" describes how a force affects an object’s behaviour or shape."},
                         {grade:"D", comment: A +" identifies that an object’s behaviour or shape has changed."},
                         {grade:"E", comment: A +" does not meet the expected standard."}
                 ];
-      fifth.name="Physical sciences";
+      five.name="Physical sciences";
 
-        let sixth = [    {grade:"no select", comment:""},
+        let six = [    {grade:"no select", comment:""},
                         {grade:"A", comment: A +" uses examples from Science Understanding to show how science and scientific events impact on people’s daily lives - living things, materials, resources, forces."},
                         {grade:"B", comment: A +" uses examples from Science Understanding to show where science is used in people’s daily lives - living things, materials, resources, forces."},
                         {grade:"C", comment: A +" uses simple personal examples from Science Understanding to show where science is used in their daily lives - living things, materials, resources, forces."},
                         {grade:"D", comment: A +" requires guidance to use simple personal examples from Science Understanding to show where science is used in people’s daily lives - living things, materials, resources, forces."},
                         {grade:"E", comment: A +" does not meet the expected standard."}
                 ];
-      sixth.name="Science Endeavour";
+      six.name="Science Endeavour";
 
-        let seventh = [    {grade:"no select", comment:""},
+        let seven = [    {grade:"no select", comment:""},
                         {grade:"A", comment: C +" poses specific and relevant questions and responds to questions making detailed predictions about objects and events."},
                         {grade:"B", comment: C +" poses relevant questions, responds to questions and makes predictions about objects and events."},
                         {grade:"C", comment: C +" poses relevant questions, responds to questions and makes simple predictions about familiar objects and events."},
                         {grade:"D", comment: C +" requires guidance to pose and respond to questions and to make predictions."},
                         {grade:"E", comment: C +" does not meet the expected standard."}
                 ];
-      seventh.name="Science Inquiry Skills1";
+      seven.name="Science Inquiry Skills1";
 
-        let eighth = [    {grade:"no select", comment:""},
+        let eight = [    {grade:"no select", comment:""},
                         {grade:"A", comment: sName +" records observations using informal measurements, represents, describes and communicates detailed observations in a variety of ways, relating these to their predictions."},
                         {grade:"B", comment: sName +" records observations using informal measurements, represents and describes observations and communicates their ideas in a variety of ways."},
                         {grade:"C", comment: sName +" records observations using informal measurements, represents observations and communicates their ideas in a variety of ways."},
                         {grade:"D", comment: sName +" records and communicates simple observations."}
                         
                 ];
-      eighth.name="Science Inquiry Skills2";
+      eight.name="Science Inquiry Skills2";
 
       
 
@@ -162,7 +162,7 @@
                
                 
 
-let Science2 = new Array(first, second, third, forth, fifth, sixth, seventh, eighth);
+let Science2 = new Array(one, two, three, four, five, six, seven, eight);
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
