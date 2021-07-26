@@ -14,7 +14,7 @@ while (!sNam) {
  // _____________________________________ switch variabls______________________________________
                                                                        switch(sGender) {
                                                                          case "boy":
-                                                                           case "b":
+                                                                           case "BOY":
                                                                              
                                                                            A = "He";
                                                                            a = "he";
@@ -30,7 +30,7 @@ while (!sNam) {
 
                                                                            break;
                                                                          case "girl":
-                                                                           case "g":
+                                                                           case "GIRL":
                                                                            A = "She";
                                                                            a = "she";
 
