@@ -14,7 +14,7 @@
       // _____________________________________ switch variabls______________________________________
                                                                             switch(sGender) {
                                                                               case "boy":
-                                                                                case "b":
+                                                                                case "BOY":
                                                                                   
                                                                                 A = "He";
                                                                                 a = "he";
@@ -30,7 +30,7 @@
 
                                                                                 break;
                                                                               case "girl":
-                                                                                case "g":
+                                                                                case "GIRL":
                                                                                 A = "She";
                                                                                 a = "she";
 
