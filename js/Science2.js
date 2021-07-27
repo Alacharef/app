@@ -74,75 +74,75 @@
 
        
       let one = [     {grade:"no select", comment:""},
-                        {grade:"A", comment: sName +" demonstrates excellent achievement of what is expected for this year level."},
-                        {grade:"B", comment: sName +" demonstrates high achievement of what is expected for this year level."},
-                        {grade:"C", comment: sName +" demonstrates satisfactory achievement of what is expected for this year level."},
-                        {grade:"D", comment: sName +" demonstrates limited achievement of what is expected for this year level."},
-                        {grade:"E", comment: sName +" demonstrates low achievement of what is expected for this year level."}
+                        {grade:"A", comment: sName +" demonstrates excellent achievement of what is expected for this year level.&nbsp;"},
+                        {grade:"B", comment: sName +" demonstrates high achievement of what is expected for this year level.&nbsp;"},
+                        {grade:"C", comment: sName +" demonstrates satisfactory achievement of what is expected for this year level.&nbsp;"},
+                        {grade:"D", comment: sName +" demonstrates limited achievement of what is expected for this year level.&nbsp;"},
+                        {grade:"E", comment: sName +" demonstrates low achievement of what is expected for this year level.&nbsp;"}
                 ];
       one.name="opening";
 
   
 
       let two = [    {grade:"no select", comment:""},
-                        {grade:"A", comment: A +" describes and compares the growth and change of a number of living things through stages of their life, identifying similarities and differences between parent and offspring and recognising common elements within life cycles."},
-                        {grade:"B", comment: A +" describes how living things grow and change through different stages of their life, identifying some similarities between parent and offspring."},
-                        {grade:"C", comment: A +" describes how living things grow and change through different stages of their life."},
-                        {grade:"D", comment: A +" describes with limited understanding how living things grow and change through different stages of their life."},
-                        {grade:"E", comment: A +" does not meet the expected standard."}
+                        {grade:"A", comment: A +" describes and compares the growth and change of a number of living things through stages of their life, identifying similarities and differences between parent and offspring and recognising common elements within life cycles.&nbsp;"},
+                        {grade:"B", comment: A +" describes how living things grow and change through different stages of their life, identifying some similarities between parent and offspring.&nbsp;"},
+                        {grade:"C", comment: A +" describes how living things grow and change through different stages of their life.&nbsp;"},
+                        {grade:"D", comment: A +" describes with limited understanding how living things grow and change through different stages of their life.&nbsp;"},
+                        {grade:"E", comment: A +" does not meet the expected standard.&nbsp;"}
                 ];
       two.name="Biological sciences";
 
         let three = [    {grade:"no select", comment:""},
-                        {grade:"A", comment: A +" identifies that different materials have different uses, describes their properties and explains how the purpose of materials can change when they are combined."},
-                        {grade:"B", comment: A +" identifies that different materials have different uses and explains how the purpose of materials can change when they are combined."},
-                        {grade:"C", comment: A +" identifies that different materials have different uses and describes how the purpose of materials can change when they are combined."},
-                        {grade:"D", comment: A +" identifies different materials and some of their uses."},
-                        {grade:"E", comment: A +" does not meet the expected standard."}
+                        {grade:"A", comment: A +" identifies that different materials have different uses, describes their properties and explains how the purpose of materials can change when they are combined.&nbsp;"},
+                        {grade:"B", comment: A +" identifies that different materials have different uses and explains how the purpose of materials can change when they are combined.&nbsp;"},
+                        {grade:"C", comment: A +" identifies that different materials have different uses and describes how the purpose of materials can change when they are combined.&nbsp;"},
+                        {grade:"D", comment: A +" identifies different materials and some of their uses.&nbsp;"},
+                        {grade:"E", comment: A +" does not meet the expected standard.&nbsp;"}
                 ];
       three.name="Chemical sciences";
 
         let four = [    {grade:"no select", comment:""},
-                        {grade:"A", comment: A +" identifies a range of resources, describes a variety of ways they can be used and reused, and how this affects other living things."},
-                        {grade:"B", comment: A +" identifies a resource and ways in which it can be used, and how the use may affect their daily life."},
-                        {grade:"C", comment: A +" identifies a resource, and ways in which it can be used."},
-                        {grade:"D", comment: A +" identifies a resource and lists some simple ways it can be used."},
-                        {grade:"E", comment: A +" does not meet the expected standard."}
+                        {grade:"A", comment: A +" identifies a range of resources, describes a variety of ways they can be used and reused, and how this affects other living things.&nbsp;"},
+                        {grade:"B", comment: A +" identifies a resource and ways in which it can be used, and how the use may affect their daily life.&nbsp;"},
+                        {grade:"C", comment: A +" identifies a resource, and ways in which it can be used.&nbsp;"},
+                        {grade:"D", comment: A +" identifies a resource and lists some simple ways it can be used.&nbsp;"},
+                        {grade:"E", comment: A +" does not meet the expected standard.&nbsp;"}
                 ];
       four.name="Earth, space sciences";
 
         let five = [    {grade:"no select", comment:""},
-                        {grade:"A", comment: A +" explains the effect of combined forces on an object’s behaviour or shape."},
-                        {grade:"B", comment: A +" explains that different forces affect an object’s behaviour or shape in different ways."},
-                        {grade:"C", comment: A +" describes how a force affects an object’s behaviour or shape."},
-                        {grade:"D", comment: A +" identifies that an object’s behaviour or shape has changed."},
-                        {grade:"E", comment: A +" does not meet the expected standard."}
+                        {grade:"A", comment: A +" explains the effect of combined forces on an object’s behaviour or shape.&nbsp;"},
+                        {grade:"B", comment: A +" explains that different forces affect an object’s behaviour or shape in different ways.&nbsp;"},
+                        {grade:"C", comment: A +" describes how a force affects an object’s behaviour or shape.&nbsp;"},
+                        {grade:"D", comment: A +" identifies that an object’s behaviour or shape has changed.&nbsp;"},
+                        {grade:"E", comment: A +" does not meet the expected standard.&nbsp;"}
                 ];
       five.name="Physical sciences";
 
         let six = [    {grade:"no select", comment:""},
-                        {grade:"A", comment: A +" uses examples from Science Understanding to show how science and scientific events impact on people’s daily lives - living things, materials, resources, forces."},
-                        {grade:"B", comment: A +" uses examples from Science Understanding to show where science is used in people’s daily lives - living things, materials, resources, forces."},
-                        {grade:"C", comment: A +" uses simple personal examples from Science Understanding to show where science is used in their daily lives - living things, materials, resources, forces."},
-                        {grade:"D", comment: A +" requires guidance to use simple personal examples from Science Understanding to show where science is used in people’s daily lives - living things, materials, resources, forces."},
-                        {grade:"E", comment: A +" does not meet the expected standard."}
+                        {grade:"A", comment: A +" uses examples from Science Understanding to show how science and scientific events impact on people’s daily lives - living things, materials, resources, forces.&nbsp;"},
+                        {grade:"B", comment: A +" uses examples from Science Understanding to show where science is used in people’s daily lives - living things, materials, resources, forces.&nbsp;"},
+                        {grade:"C", comment: A +" uses simple personal examples from Science Understanding to show where science is used in their daily lives - living things, materials, resources, forces.&nbsp;"},
+                        {grade:"D", comment: A +" requires guidance to use simple personal examples from Science Understanding to show where science is used in people’s daily lives - living things, materials, resources, forces.&nbsp;"},
+                        {grade:"E", comment: A +" does not meet the expected standard.&nbsp;"}
                 ];
       six.name="Science Endeavour";
 
         let seven = [    {grade:"no select", comment:""},
-                        {grade:"A", comment: C +" poses specific and relevant questions and responds to questions making detailed predictions about objects and events."},
-                        {grade:"B", comment: C +" poses relevant questions, responds to questions and makes predictions about objects and events."},
-                        {grade:"C", comment: C +" poses relevant questions, responds to questions and makes simple predictions about familiar objects and events."},
-                        {grade:"D", comment: C +" requires guidance to pose and respond to questions and to make predictions."},
-                        {grade:"E", comment: C +" does not meet the expected standard."}
+                        {grade:"A", comment: C +" poses specific and relevant questions and responds to questions making detailed predictions about objects and events.&nbsp;"},
+                        {grade:"B", comment: C +" poses relevant questions, responds to questions and makes predictions about objects and events.&nbsp;"},
+                        {grade:"C", comment: C +" poses relevant questions, responds to questions and makes simple predictions about familiar objects and events.&nbsp;"},
+                        {grade:"D", comment: C +" requires guidance to pose and respond to questions and to make predictions.&nbsp;"},
+                        {grade:"E", comment: C +" does not meet the expected standard.&nbsp;"}
                 ];
       seven.name="Science Inquiry Skills1";
 
         let eight = [    {grade:"no select", comment:""},
-                        {grade:"A", comment: sName +" records observations using informal measurements, represents, describes and communicates detailed observations in a variety of ways, relating these to their predictions."},
-                        {grade:"B", comment: sName +" records observations using informal measurements, represents and describes observations and communicates their ideas in a variety of ways."},
-                        {grade:"C", comment: sName +" records observations using informal measurements, represents observations and communicates their ideas in a variety of ways."},
-                        {grade:"D", comment: sName +" records and communicates simple observations."}
+                        {grade:"A", comment: sName +" records observations using informal measurements, represents, describes and communicates detailed observations in a variety of ways, relating these to their predictions.&nbsp;"},
+                        {grade:"B", comment: sName +" records observations using informal measurements, represents and describes observations and communicates their ideas in a variety of ways.&nbsp;"},
+                        {grade:"C", comment: sName +" records observations using informal measurements, represents observations and communicates their ideas in a variety of ways.&nbsp;"},
+                        {grade:"D", comment: sName +" records and communicates simple observations.&nbsp;"}
                         
                 ];
       eight.name="Science Inquiry Skills2";
